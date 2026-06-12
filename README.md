@@ -40,9 +40,9 @@ Current progress:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TWOJ_LOGIN)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonShip20)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_LOGIN)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonShip20)
 
 ---
 
