@@ -2,6 +2,8 @@
 
 I'm a 15 year old boy from Poland who really likes coding. I know Python, C and Assembly, and I'm really into low level programming but I can do everything
 
+This README is really not that great because I focus on writing good code and not READMEs ;)
+
 ---
 
 ## Current work
@@ -18,7 +20,8 @@ I'm a 15 year old boy from Poland who really likes coding. I know Python, C and 
 Custom operating system kernel written from scratch.
 - IDT / interrupts
 - E820 memory parsing
-- PMM in progress
+- PMM with PAE paging
+- VESA display and graphics
 
 ### Aed (Assembly Editor)
 Terminal-based editor built from scratch in raw mode.
