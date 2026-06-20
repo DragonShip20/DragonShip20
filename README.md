@@ -17,7 +17,7 @@ This README is really not that great because I focus on writing good code and no
 ## Projects
 
 ### VantaOS
-Custom operating system kernel written from scratch.
+Custom 64 bit operating system kernel written from scratch.
 - IDT / interrupts
 - E820 memory parsing
 - PMM with PAE paging
